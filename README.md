@@ -13,7 +13,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shaan807/shaan807/main/output/snake.svg" alt="Snake animation" />
 
 
 ###
